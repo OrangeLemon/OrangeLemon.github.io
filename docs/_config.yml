@@ -1,2 +1,4 @@
 #theme: jekyll-theme-time-machine
 remote_theme: minimal-mistakes-jekyll
+
+theme: jekyll-theme-cayman
